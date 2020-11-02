@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: MainBoard.GBR   06/09/2020  20:57:41
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.Outline            Outline                                 
+.Dimensions Top     Dimensions Top                          
+.Dimensions Bottom  Dimensions Bottom                       
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

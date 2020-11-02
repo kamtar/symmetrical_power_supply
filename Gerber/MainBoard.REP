@@ -1,0 +1,219 @@
+*************************************************************
+FileName = MainBoard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : MainBoard.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MainBoard.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : MainBoard.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : MainBoard.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : MainBoard.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D21
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MainBoard.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D18
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MainBoard.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MainBoard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : MainBoard.Outline
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Dimensions Top
+      File : MainBoard.Dimensions Top
+
+    Adding Layer      : Dimensions Top
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dimensions Bottom
+      File : MainBoard.Dimensions Bottom
+
+    Adding Layer      : Dimensions Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : MainBoard.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D30
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : MainBoard.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D30
+*************************************************************
+

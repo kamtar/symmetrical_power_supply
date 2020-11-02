@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MainBoard.CMPcbDoc   06/09/2020  20:42:08
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MainBoard.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          61               191.03 mm (7.52 Inch)
+T2        0.7mm (27.559mil)        Round          6                57.95 mm (2.28 Inch)
+T3        0.762mm (30mil)          Round          3                55.55 mm (2.19 Inch)
+T4        1mm (39.37mil)           Round          10               86.95 mm (3.42 Inch)
+---------------------------------------------------------------------------
+Totals                                            80               391.47 mm (15.41 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
